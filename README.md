@@ -5,8 +5,6 @@
   <img src="assets/brand.png" width="400" alt="NetwOS animated network globe and product logo">
 </picture>
 
-# NetwOS
-
 **Your network. One clear view.**
 
 A self-hosted network workspace for mixed-vendor equipment,<br>
