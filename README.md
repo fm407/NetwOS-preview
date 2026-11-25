@@ -14,6 +14,16 @@ with live telemetry, visual topology and AI-assisted investigation.
 ![Desktop and Mobile](https://img.shields.io/badge/desktop%20%2B%20mobile-dark%20interface-292d33?style=flat-square)
 ![Kiosk Mode: Coming Soon](https://img.shields.io/badge/kiosk%20mode-coming%20soon-606974?style=flat-square)
 
+<p>
+  <a href="https://discord.gg/KB3egvEWQc">
+    <img src="assets/discord.svg" width="164" alt="Discord">
+  </a>
+  <br>
+  <a href="https://discord.gg/KB3egvEWQc"><strong>Join the NetwOS testing community</strong></a>
+  <br>
+  <sub>Complete verification to join the discussion. Beta access is provided individually by @SeHou.</sub>
+</p>
+
 <img src="assets/overview.png" width="1120" alt="Dark NetwOS Overview with gateway health, traffic identification, device artwork and measured activity charts">
 
 <sub>Actual interface, fictional demonstration network. Addresses are hidden in every capture.</sub>
