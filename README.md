@@ -91,4 +91,4 @@ This repository contains preview media and this README only. Screenshots and ani
 
 NetwOS is being built for home labs and small businesses that want a self-hosted workspace across their chosen equipment. Custom integrations, additional data points and dashboards for specific operational metrics can be discussed.
 
-**Interested in controlled beta access or a custom integration? [Get in touch with fm407](https://github.com/fm407).**
+**Interested in controlled beta access or a custom integration? Contact netwos[@]fmhmx.com.**
