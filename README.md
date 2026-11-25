@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="assets/brand.gif" width="368" alt="NetwOS animated network globe and product logo">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/brand-light.png">
+  <img src="assets/brand.png" width="400" alt="NetwOS animated network globe and product logo">
+</picture>
 
 # NetwOS
 
@@ -9,11 +12,9 @@
 A self-hosted network workspace for mixed-vendor equipment,<br>
 with live telemetry, visual topology and AI-assisted investigation.
 
-![Status: Coming Soon](https://img.shields.io/badge/status-coming%20soon-3983f6?style=flat-square)
+![Status: Controlled Beta](https://img.shields.io/badge/status-controlled%20beta-3983f6?style=flat-square)
 ![Desktop and Mobile](https://img.shields.io/badge/desktop%20%2B%20mobile-dark%20interface-292d33?style=flat-square)
 ![Kiosk Mode: Coming Soon](https://img.shields.io/badge/kiosk%20mode-coming%20soon-606974?style=flat-square)
-
-**Built by [fm407](https://github.com/fm407). Public release coming soon.**
 
 <img src="assets/overview.png" width="1120" alt="Dark NetwOS Overview with gateway health, traffic identification, device artwork and measured activity charts">
 
@@ -80,7 +81,7 @@ Local accounts with authenticator setup and recovery, encrypted application back
 
 ## Coming next
 
-- **Public release:** source and installation details are not published in this preview repository yet.
+- **Controlled beta:** access is coordinated individually. This preview repository does not provide an application download or self-service enrollment.
 - **Kiosk mode:** a focused display for a touchscreen, wall panel or always-on network station. Coming soon.
 - **Approved device changes:** connected execution after adapter and recovery validation.
 
@@ -90,4 +91,4 @@ This repository contains preview media and this README only. Screenshots and ani
 
 NetwOS is being built for home labs and small businesses that want a self-hosted workspace across their chosen equipment. Custom integrations, additional data points and dashboards for specific operational metrics can be discussed.
 
-**Interested in a pilot or a custom integration? [Get in touch with fm407](https://github.com/fm407).**
+**Interested in controlled beta access or a custom integration? [Get in touch with fm407](https://github.com/fm407).**
